@@ -1,5 +1,5 @@
 # zfile_repl
-Deploy zfile on Replit.
+Deploy [zfile](https://github.com/zfile-dev/zfile) on [Replit](https://replit.com).
 ## usage
 Blank Repl
 
